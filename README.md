@@ -1,4 +1,5 @@
 This project is a Library Management System built to provide a user-friendly, efficient way to manage books, members, and transactions within a library setting. Designed for small to medium-sized libraries, it helps automate and streamline essential operations such as book borrowing, returning, and member management. With its core functionality developed using C++, it demonstrates fundamental concepts of Object-Oriented Programming (OOP) like encapsulation, inheritance, and polymorphism.
+
 Key Features:
 Book Management: Add, delete, update, or view books with details like title, author, and availability status.
 Member Management: Register new members and maintain records of active and past users.
